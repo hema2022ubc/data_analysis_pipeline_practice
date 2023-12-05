@@ -1,4 +1,4 @@
-# run_all.sh
+=# run_all.sh
 # Tiffany Timbers, Nov 2018
 
 # This driver script completes the textual analysis of
